@@ -14,7 +14,6 @@ It provides a high-performance Python solver (accelerated via Numba JIT) to simu
 
 The repository is organized into five main directories, covering everything from fundamental image testing to full video processing and electrical benchmarking:
 
-```text
 📦 q-controlled Memristive Network
  ┣ 📂 img Test
  ┣ 📂 Memristive grid q-controlled for image processing
