@@ -13,14 +13,14 @@ It provides a high-performance Python solver (accelerated via Numba JIT) to simu
 ## 📁 Repository Structure
 
 The repository is organized into five main directories, covering everything from fundamental image testing to full video processing and electrical benchmarking:
-
+```text
 📦 q-controlled Memristive Network
  ┣ 📂 img Test
  ┣ 📂 Memristive grid q-controlled for image processing
  ┣ 📂 Memristive grid q-controlled for video processing
  ┣ 📂 Electrical Framework Simulation
  ┗ 📂 Electrical Benchmark
-
+```
 1. img Test
 Contains the foundational test image (test.png) used throughout the research. This image features simple but strategically placed geometric shapes designed to fundamentally test the network's spatial dynamics and boundary detection capabilities.
 
