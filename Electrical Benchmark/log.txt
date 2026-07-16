@@ -1,0 +1,15 @@
+[2/4] Loading Numba history: netlist_data_test.npz...
+[1/4] Reading SPICE file: spice4qucs.tr1.plot...
+[3/4] Aligning by interpolation in window t=[0.001s, 0.061s]...
+[4/4] Calculating point-by-point metrics...
+
+=======================================================
+ FIGURES OF MERIT SUMMARY (Grid 40x40 - Window 0.001s to 0.061s)
+=======================================================
+ Evaluated points:         600 time frames
+ Average NRMSE (Pillar 1): 0.1589%  (Target: < 1.0%)
+ Maximum NRMSE:            0.1870%
+ Average Pratt's FOM:      81.60%   (Target: > 90.0%)
+=======================================================
+
+High-resolution plot generated and saved at: figura_merito_fom_jcr.png!

@@ -1,0 +1,5 @@
+
+
+
+"C:\Program Files\Qucs-S\bin\ngspice_con.exe" red.cir
+
