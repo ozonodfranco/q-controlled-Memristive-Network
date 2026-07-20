@@ -6,7 +6,7 @@
 
 This repository contains the source code, simulation models, and experimental testbenches accompanying the research paper: **"q-controlled Memristive Network used as an Edge Detection Video Processor"**.
 
-The project demonstrates the use of a high-performance Python solver (accelerated via Numba JIT) to simulate large-scale memristive grids for analog image and video processing. Furthermore, it includes a comprehensive physical circuit validation workflow to prove the algorithm's exact topological and electrical congruence against standard SPICE simulators without the  computational bottleneck.
+The project demonstrates the use of a high-performance Python solver (accelerated via Numba JIT) to simulate large-scale memristive grids for analog image and video processing. Furthermore, it includes a comprehensive physical circuit validation workflow to prove the algorithm's exact topological and electrical congruence against standard SPICE simulators.
 
 ---
 
